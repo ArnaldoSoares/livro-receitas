@@ -10,7 +10,7 @@
 - 1 colher de manteiga
 - 1/2 [copo de ketchup](https://blog.tudogostoso.com.br/cardapios/ketchup-caseiro/)
 - 1/3 copo de mostarda
-- 1 copo de cogumelos
+- 1 copo de cogumelos.
 - 1 copo de creme de leite
 - [batata palha](https://blog.tudogostoso.com.br/cardapios/receitas-faceis/receitas-com-batata-palha/) a gosto
 
