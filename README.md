@@ -1,6 +1,8 @@
-Livro de Receitas
+# Livro de Receitas :book:
 
-Olá! Bem vindo ao meu livro de receitas
 
-> Strogronoff de Frango
-Pave.
+
+### Olá Bem vindo ao meu livro de Receitas
+
+- Strogonoff de Frango
+- Pavê
